@@ -62,8 +62,8 @@ Welcome to my ethical hacking portfolio! This repository tracks my journey as I 
 **Description:** Created a GitHub repository and set up a Markdown-based tracking system for documenting weekly progress, tasks, challenges, and solutions for all ethical hacking projects. The project includes using Markdown features such as headings, tables, code blocks, and embedding images.
   
 - **Key Accomplishments:**
-  - Learned basic Markdown syntax (headings, lists, links)
-  - Created a table for weekly progress tracking
-  - Embedded images and screenshots using Markdown
-  - Linked projects within the README for easy navigation
+  1. Learned basic Markdown syntax (headings, lists, links)
+  1. Created a table for weekly progress tracking
+  1. Embedded images and screenshots using Markdown
+  1. Linked projects within the README for easy navigation
 - [Read full project details](./project0-github-markdown-setup.md)
