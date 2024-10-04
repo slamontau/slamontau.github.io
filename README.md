@@ -1,33 +1,23 @@
-# Heading 1
-## Heading 2
-### Heading 3
-**BOLD**
-*ITALICS*
-- hello
-- goodbye
-- left
-- right
-- up
-- down
-* hello
-* again
-* testing
-1. item one
-2. two
-3. three
-4. four
-5. five
+# Table of Contents
 
+- [Progress Tracker](#progress-tracker)
+
+- [Project 0: GitHub Markdown Tracking Page Setup](#project-0-github-markdown-tracking-page-setup)
+- [Project 1: Home Lab Setup](#project-1-home-lab-setup)
+- [Project 2: Network Scanning & Vulnerability Mapping](#project-2-network-scanning--vulnerability-mapping)
+- [Project 3: Exploitation and Gaining Access](#project-3-exploitation-and-gaining-access)
+- [Project 4: Password Cracking & Privilege Escalation](#project-4-password-cracking--privilege-escalation)
+- [Project 5: Web Application Penetration Testing](#project-5-web-application-penetration-testing)
+- [Project 6: Capture the Flag (CTF) Challenge](#project-6-capture-the-flag-ctf-challenge)
+- [Final Project: Portfolio Compilation](#final-project-portfolio-compilation)
+
+# Progress Tracker
 
 | Week # | Date       | Tasks Completed               | Challenges      | Solutions          | Time Spent |
 |------------|-------------------------------|-----------------|--------------------|------------|
-| 1      | 2024-10-01 | Set up home lab, installed VMs | Network issues  | Changed network settings | 2 hours |
-| 2 ||||||
-
-```
-# Example Nmap command
-nmap -A -T4 target_ip
-```
+|1. | 2024-10-05 | Set up GitHub, README.md||
+| 1.     | 2024-10-12 | Set up home lab, installed VMs | Network issues  | Changed network settings | 2 hours |
+| 1. ||||||
 
 # Ethical Hacking and Penetration Testing Portfolio
 
