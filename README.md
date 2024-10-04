@@ -19,10 +19,10 @@
 5. five
 
 
-| Date       | Tasks Completed               | Challenges      | Solutions          | Time Spent |
+| Week # | Date       | Tasks Completed               | Challenges      | Solutions          | Time Spent |
 |------------|-------------------------------|-----------------|--------------------|------------|
-| 2024-10-01 | Set up home lab, installed VMs | Network issues  | Changed network settings | 2 hours    |
-||||||
+| 1      | 2024-10-01 | Set up home lab, installed VMs | Network issues  | Changed network settings | 2 hours |
+| 2 ||||||
 
 ```
 # Example Nmap command
